@@ -10,3 +10,13 @@ A classic Snake game implemented using object-oriented principles in C++.
 1. Compile:
    ```bash
    g++ main.cpp -o snake_game
+##Controls
+W: Up
+
+A: Left
+
+S: Down
+
+D: Right
+
+X: Quit
